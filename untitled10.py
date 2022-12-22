@@ -5,7 +5,7 @@ Created on Wed Jan 13 22:37:59 2021
 @author: Acer
 """
 
-word=input("so'z kiriting>>>")
+word=input("soo'z kiriting>>>")
 n=0
 javob=[]
 result=[]
